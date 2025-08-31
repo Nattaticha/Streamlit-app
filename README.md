@@ -150,17 +150,5 @@ requests>=2.25.0
 numpy>=1.21.0
 ```
 
-## 👨‍💻 การพัฒนา
-
-หากต้องการพัฒนาหรือปรับปรุงแอปพลิเคชัน:
-
-1. Fork repository นี้
-2. สร้าง feature branch (`git checkout -b feature/new-feature`)
-3. Commit การเปลี่ยนแปลง (`git commit -am 'Add new feature'`)
-4. Push ไปยัง branch (`git push origin feature/new-feature`)
-5. สร้าง Pull Request
 
 
----
-
-**Made with ❤️ using Streamlit**
